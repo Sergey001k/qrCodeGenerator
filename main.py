@@ -1,3 +1,4 @@
+# import modules
 import qrcode
 import base64
 from flask import Flask
